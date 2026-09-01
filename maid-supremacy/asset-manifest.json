@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/maid-supremacy/static/css/main.7ff1df53.css",
-    "main.js": "/maid-supremacy/static/js/main.242a42a3.js",
+    "main.css": "/maid-supremacy/static/css/main.c7c4209b.css",
+    "main.js": "/maid-supremacy/static/js/main.f66ac784.js",
     "static/js/787.ff47ca02.chunk.js": "/maid-supremacy/static/js/787.ff47ca02.chunk.js",
+    "static/media/maid-supremacy-gif2.gif": "/maid-supremacy/static/media/maid-supremacy-gif2.ce3c9becbd4c041a60cb.gif",
+    "static/media/maid-supremacy-gif1.gif": "/maid-supremacy/static/media/maid-supremacy-gif1.3584a01759d696778aa8.gif",
     "static/media/Maid Supremacy logo detail.png": "/maid-supremacy/static/media/Maid Supremacy logo detail.95be635a202359c6246a.png",
     "static/media/ima_313f48a.png": "/maid-supremacy/static/media/ima_313f48a.f74d15fc83e18a00f82d.png",
     "static/media/Sem_titulo4.png": "/maid-supremacy/static/media/Sem_titulo4.6efcf83fb6cf2709631a.png",
@@ -61,12 +63,12 @@
     "static/media/screenshot7.jpg": "/maid-supremacy/static/media/screenshot7.a5ba7cbc3cf3394a1ecd.jpg",
     "static/media/BebasNeue-Regular.ttf": "/maid-supremacy/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "index.html": "/maid-supremacy/index.html",
-    "main.7ff1df53.css.map": "/maid-supremacy/static/css/main.7ff1df53.css.map",
-    "main.242a42a3.js.map": "/maid-supremacy/static/js/main.242a42a3.js.map",
+    "main.c7c4209b.css.map": "/maid-supremacy/static/css/main.c7c4209b.css.map",
+    "main.f66ac784.js.map": "/maid-supremacy/static/js/main.f66ac784.js.map",
     "787.ff47ca02.chunk.js.map": "/maid-supremacy/static/js/787.ff47ca02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ff1df53.css",
-    "static/js/main.242a42a3.js"
+    "static/css/main.c7c4209b.css",
+    "static/js/main.f66ac784.js"
   ]
 }
