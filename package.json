@@ -1,0 +1,12 @@
+{
+  "name": "maidswithguns-company-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -l 4173",
+    "preview": "npx serve . -l 4173",
+    "build:portfolio": "npm --prefix ../Portfolio run build",
+    "copy:portfolio": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"if (Test-Path portfolio) { Remove-Item -LiteralPath portfolio -Recurse -Force }; Copy-Item -Path ../Portfolio/build -Destination portfolio -Recurse\"",
+    "update:portfolio": "npm run build:portfolio && npm run copy:portfolio"
+  }
+}
